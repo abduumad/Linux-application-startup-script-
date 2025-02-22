@@ -33,3 +33,6 @@ now if you want to run flatpak apps use this example:
 (flatpak run com.github.johnfactotum.Foliate &)  & sleep 5 &&
 sh -c "wmctrl -i -r `wmctrl -l | grep Foliate` -t 2"
 ```
+## Download script
+
+ - [startup.sh](https://github.com/abduumad/Linux-application-startup-script-/blob/main/startup.sh)
