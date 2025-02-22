@@ -36,3 +36,6 @@ sh -c "wmctrl -i -r `wmctrl -l | grep Foliate` -t 2"
 ## Download script
 
  - [startup.sh](https://github.com/abduumad/Linux-application-startup-script-/blob/main/startup.sh)
+
+## 🔗 Links
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/abdupdf)
